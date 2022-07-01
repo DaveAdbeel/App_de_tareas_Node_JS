@@ -25,7 +25,8 @@
 
 [Descarga el proyecto](https://github.com/DaveAdbeel/App_tabla_multiplicar_NodeJS/archive/refs/heads/master.zip)
 
-![Diseño sin título](https://user-images.githubusercontent.com/91069463/175447653-b8c97730-3e34-4ee6-9beb-00ef28494d34.PNG)
+![Diseño sin título](https://user-images.githubusercontent.com/91069463/176970721-982e69cc-02d1-4a1a-b378-4e7c5fa1c308.PNG)
+
 
 &nbsp;
 
