@@ -12,16 +12,15 @@
 
 - <span style="color:#ff0;">JavaScript</span>
 - <span style="color:#9f9">NodeJS</span>
-- Libreria [Yargs](https://yargs.js.org/) y [Colors](https://github.com/Marak/colors.js)
+- Libreria [Yargs](https://yargs.js.org/) , [Colors](https://github.com/Marak/colors.js) e [Inquirer](https://github.com/SBoudrias/Inquirer.js)
  
 &nbsp; 
 
 ## <span style="color:#9f0; font-weight:bold;">Que aprendí</span>
 
 
-- Uso de <span style="color:#f0s0;">promises</span> y <span style="color:#f00;">async await</span>
-- Uso de la libreria [Yargs](https://yargs.js.org/) y [Colors](https://github.com/Marak/colors.js) 
-
+- Mejorar el uso de <span style="color:#f0s0;">promises</span> y <span style="color:#f00;">async await</span>
+- Uso de multiples librerias
 &nbsp;
 
 [Descarga el proyecto](https://github.com/DaveAdbeel/App_tabla_multiplicar_NodeJS/archive/refs/heads/master.zip)
