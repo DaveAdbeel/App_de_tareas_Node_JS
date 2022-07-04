@@ -26,7 +26,7 @@ class Tasks {
             })
         })
 
-        console.log(this._listed);
+       console.log("Tareas completadas");
     }
 
     eraseTask(id = "") {
