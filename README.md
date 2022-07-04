@@ -12,7 +12,7 @@
 
 - <span style="color:#ff0;">JavaScript</span>
 - <span style="color:#9f9">NodeJS</span>
-- Libreria [Yargs](https://yargs.js.org/) , [Colors](https://github.com/Marak/colors.js) e [Inquirer](https://github.com/SBoudrias/Inquirer.js)
+- Libreria [Colors](https://github.com/Marak/colors.js) e [Inquirer](https://github.com/SBoudrias/Inquirer.js)
  
 &nbsp; 
 
@@ -21,11 +21,13 @@
 
 - Mejorar el uso de <span style="color:#f0s0;">promises</span> y <span style="color:#f00;">async await</span>
 - Uso de multiples librerias
+
 &nbsp;
 
-[Descarga el proyecto](https://github.com/DaveAdbeel/App_tabla_multiplicar_NodeJS/archive/refs/heads/master.zip)
+[Descarga el proyecto](https://github.com/DaveAdbeel/App_de_tareas_Node_JS/archive/refs/heads/main.zip)
 
-![Diseño sin título](https://user-images.githubusercontent.com/91069463/175447653-b8c97730-3e34-4ee6-9beb-00ef28494d34.PNG)
+![Diseño sin título](https://user-images.githubusercontent.com/91069463/176970721-982e69cc-02d1-4a1a-b378-4e7c5fa1c308.PNG)
+
 
 &nbsp;
 
@@ -45,8 +47,7 @@
 
 - Ejecuta el comando <code>npm install o npm i</code> para instalar las dependencias
 
-
-- Luego de eso ejecuta <code> node app --help</code>  para ver los comandos disponibles
+- Luego de eso ejecuta <code> node app </code> y empieza a ocupar la app
   
 &nbsp;
 
